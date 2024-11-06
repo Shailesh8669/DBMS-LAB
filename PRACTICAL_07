@@ -60,3 +60,4 @@ FROM Course
 LEFT JOIN Student ON Student.CourseID = Course.CourseID;
 
 SELECT * FROM ViewName;
+
